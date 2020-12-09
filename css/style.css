@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'castoro';
+  src: url('Chair/fonts/Castoro-Regular.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'castoro';
+}
+
+/*large Devices, Wide Screens*/
+@media only screen and (max-width : 1200px) {
+}
+
+@media only screen and (max-width : 1199px)
+{
+}
+
+@media only screen and (max-width : 992px)
+{
+}
+
+@media only screen and (max-width : 991px)
+{
+}
+
+@media only screen and (max-width : 768px)
+{
+}
+
+@media only screen and (max-width : 767px)
+{
+}
+
+@media only screen and (max-width : 480px)
+{
+}
+
+
+body{
+  min-width: 320px;
+  font-size: 14px;
+  font-family: 'castoro';
+  color: #626263;  
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #b4ad9e;
+}
+
+a:hover {
+  color: #898377;
+}
+
+
+
+
+
+
+
